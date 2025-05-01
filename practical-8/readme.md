@@ -56,7 +56,7 @@ The model is trained by counting frequency of n-grams in the training corpus and
 
 ```bash
 cd backend
-pip install -r requirements.txt
+pip install flask flask-cors
 python app.py
 ```
 
@@ -74,14 +74,3 @@ npm run dev
 
 ## ![Frontend Screenshot](./screenshot/frontend.png)
 
-## 📫 Contact
-
-For questions or improvements, feel free to raise an issue or contact the maintainer.
-
----
-
-## ✅ Future Improvements
-
-- Add support for saving/loading models
-- Display n-gram probability distribution
-- Add smoothing methods (e.g., Laplace)
