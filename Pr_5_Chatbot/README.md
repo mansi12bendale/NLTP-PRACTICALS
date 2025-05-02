@@ -1,4 +1,4 @@
-*🤖 DialoGPT Chatbot Manual (Google Colab)*
+#🤖 DialoGPT Chatbot Manual (Google Colab)#
 🔧 Requirements
 Internet connection
 
